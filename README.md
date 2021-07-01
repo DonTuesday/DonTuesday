@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DonTuesday
-- 👀 I’m interested in ...simply, someone telling me how decrypt a secure note that is in my macbook if I have a private key.  As well as someone telling me how to encrypt the message
+- 👀 I’m interested in ...simply, someone telling me how decrypt a secure note that is in my macbook if I have a private key.  As well as someone telling me how to encrypt a message using a public key, thanks
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my email 
